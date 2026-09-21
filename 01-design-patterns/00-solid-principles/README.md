@@ -59,7 +59,7 @@ classDiagram
 
 ---
 
-## 25+ LPA Interview Traps & Defenses
+## Interview Traps & Defenses
 
 ### 1. LSP vs. Runtime Polymorphism
 
