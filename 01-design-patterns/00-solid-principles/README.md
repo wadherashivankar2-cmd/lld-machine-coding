@@ -70,3 +70,4 @@ classDiagram
 
 - **Trap Question:** "Is Dependency Inversion just Spring's `@Autowired` annotation?"
 - **Defense:** No. Dependency Inversion is a high-level architectural principle stating that modules must depend on abstractions, not concrete details. Dependency Injection is a creational design pattern used to implement DIP. Spring is merely an application framework that automates DI via an inversion-of-control container.
+
